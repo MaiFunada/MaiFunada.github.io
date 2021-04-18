@@ -1,6 +1,27 @@
-.v1{
-    color:red
+.v11{
+     background-color: #faeee7;
 }
+.v0{
+    font-family:"caveat";
+    margin-left:500px;
+    font-size: 40px;  
+}
+.v1{
+     margin-left: 480px;
+}
+.o1{border-bottom:5px solid #fec7d7;}
+.o2{border-bottom:5px solid red;}
+.o3{border-bottom:5px solid orange;}
+.o4{border-bottom:5px solid yellow;}
+.o5{border-bottom:5px solid lightgreen;}
+.o6{border-bottom:5px solid #a786df;}
+.o7{border-bottom:5px solid lightskyblue;}
+   
 .s3{
     margin-left:275px;
 }
+
+.div5{
+    margin-left:515px;
+}
+
